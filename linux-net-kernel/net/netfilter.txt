@@ -1,0 +1,5 @@
+http://bbs.chinaunix.net/thread-3749229-1-2.html          [网络子系统] linux-2.6.35.6 xtables&iptables&hipac [复制链接]
+
+http://bbs.chinaunix.net/thread-4082396-1-2.html          [网络子系统] linux-2.6.35.6 nf_conntrack [复制链接]
+
+http://bbs.chinaunix.net/thread-1970484-1-1.html          Snort 入侵检测系统源码分析 [复制链接]

@@ -33,3 +33,4 @@ linux内核网络协议栈阅读理解
 待分析主要模块:网桥模块，vlan模块，邻居子系统，路由表模块。
 
 
+阅读工具source insight,如果中文乱码，按照source insight configure目录中说明操作
